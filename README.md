@@ -59,7 +59,8 @@ print(f"Predicted value : {pre}")
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
-![Uploading image.png…]()
+![image](https://github.com/VisHinu24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144244396/4d439a3f-ac29-4451-9b3d-66e281e6609b)
+
 
 
 
